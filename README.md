@@ -4,20 +4,7 @@ Forked from https://github.com/xavave/hlsdl-vs2019
 
 This program converts .m3u8 playlists (using fragmented MPEG-2 Transport Streams) to a .ts video. It supports decryption of both AES-128 and SAMPLE-AES encryption.
 
-Requirements
-------------
-
-This program requires libcurl and libcrypto libraries.
-
-Build
------
-
-Linux:
-`make && make install && make clean`
-
-Windows:
-https://github.com/xavave/hlsdl/blob/master/msvc/BUILD_WINDOWS.txt
-
+You can build the project file. Required vs studio 2019
 
 Usage and Options
 -----------------
