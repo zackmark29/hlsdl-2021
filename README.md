@@ -12,8 +12,6 @@ This program requires libcurl and libcrypto libraries.
 Build
 -----
 
-![hlsdl build](https://github.com/xavave/hlsdl/workflows/hlsdl%20build/badge.svg)
-
 Linux:
 `make && make install && make clean`
 
